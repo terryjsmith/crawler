@@ -7,7 +7,7 @@
 #define SOCKET_BUFFER_SIZE		2048
 #define MAX_PAGE_SIZE			2097152
 
-#define BASE_PATH       		"/var/indexer/"
+#define BASE_PATH       		"/var/index/"
 
 #define MIN_ACCESS_TIME 		10
 #define ROBOTS_MIN_ACCESS_TIME		604800 			// One week
